@@ -1,8 +1,8 @@
 # README.md
 
-# Python Target Practice Game
+# FPS Reflex Application
 
-This project is a simple target practice game implemented in Python. The objective of the game is to click on randomly generated circles on the screen, with the average reaction time displayed after 20 clicks.
+This project is a simple target practice game implemented in Python. The objective of the game is to click on randomly generated circles on the screen, with the average reaction time displayed after each game mode.
 
 ## Project Structure
 
