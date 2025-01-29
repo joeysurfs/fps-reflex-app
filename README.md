@@ -7,7 +7,7 @@ This project is a simple target practice game implemented in Python. The objecti
 ## Project Structure
 
 ```
-python-target-game
+fps-reflex-app
 ├── src
 │   ├── main.py          # Entry point of the application
 │   ├── game.py          # Game logic and state management
@@ -18,8 +18,9 @@ python-target-game
 │   ├── __init__.py      # Marks the tests directory as a package
 │   ├── test_game.py     # Unit tests for the Game class
 │   └── test_target.py    # Unit tests for the Target class
-├── requirements.txt      # Project dependencies
-└── README.md             # Project documentation
+└── requirements.txt      # Project dependencies
+highscores.json       # Highscore management
+README.md             # Project documentation
 ```
 
 ## Requirements
