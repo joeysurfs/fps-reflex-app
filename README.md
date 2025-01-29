@@ -10,17 +10,28 @@ Compete for the highest score in 4 different game modes that will test your prec
 
 ## Game Modes
 
-### 10 Target
-(Randomly generated)
-### 20 Target
-(Randomly generated)
-### Burst - 30 Target
-(Simulates random FPS movement)
-### 50 Target
-(Randomly generated)
+### 10 Target, 20 Target, 50 Target
+Randomly generated targets that spawn a new random target when clicked with the mouse cursor. Click through the selected amount of targets to calculate an average reaction time and compete for the high score.
 
 #### Example:
 ![example-test](https://github.com/user-attachments/assets/cb1d6fba-4b0b-423e-9cae-f5e35b25c7d7)
+
+### Burst - 30 Target
+Similar to the previous game modes, however these targets are more procedurely generated. **EVERY THREE TARGETS** will be generated on a random line on the X and Y axes varying in small distances from each other. The goal is to simulate FPS movement and practice smaller precision.  
+
+#### Example:
+![burst-example](https://github.com/user-attachments/assets/d8732ea2-058e-488f-bafd-56954cba7721)
+
+## Leaderboards
+
+After each round, the user's reaction time is displayed and allows the user to input a 10 character name for their highscore. The leaderboard will make note of the date so that users can track their progress.
+
+All scores can be cleared within the main menu.
+
+#### Example:
+![leaderboard-example](https://github.com/user-attachments/assets/c0d86de2-3955-4827-a0e5-467a4a80500e)
+
+
 
 ## Project Structure
 
